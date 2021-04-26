@@ -35,10 +35,15 @@ def country_grouped():
 
     return render_template("country_grouped.html")
 
-@app.route("/map")
-def map():
+@app.route("/mean_cup_per_country")
+def mean_cup_per_country():
 
-    return render_template("map.html")
+    return render_template("mean_cup_per_country.html")
+
+@app.route("/about")
+def about():
+
+    return render_template("about.html")
    
 
 

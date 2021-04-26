@@ -163,23 +163,26 @@
                         </a> 
                         <div class="dropdown-menu">
                             <a href="/viz">Visualizing Coffee Data</a>
-                            <!-- <a href="/processingmethod" target="_blank">Processing Methods</a><br>
-                            <a href="/country_grouped" target="_blank">Countries</a><br>
-                            <a href="/mean_cup_per_country" target="_blank">Mean per Cup</a>
-                            <a href="/map">Map Data</a> -->
+                            <a href="/processingmethod">Processing Methods</a><br>
+                            <a href="/country_grouped" >Countries</a><br>
+                            <a href="/mean_cup_per_country">Mean per Cup</a>
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://www.google.com/maps/d/edit?mid=13QQxvNDAoxWdx5HJOsxkX-SQP8gnJ7Fv&ll=7.806689113241809%2C-172.0701841045268&z=3" target="_blank">Map</a>
+                        <a class="nav-link" href="https://www.google.com/maps/d/edit?mid=13QQxvNDAoxWdx5HJOsxkX-SQP8gnJ7Fv&ll=7.806689113241809%2C-172.0701841045268&z=3">Map</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/country" target="_blank">Country</a>
+                        <a class="nav-link" href="/country">Country</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/about">About</a>
                     </li>
                 </ul>
 
             </div>
         </nav>
         <p></p>
+        
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -231,18 +234,18 @@
                         <a class="next" onclick="plusSlides(1)">&#10095;</a>
 
                     </div>
-                    <br>
+                    <!-- <br>
 
                     <div style="text-align:center">
                         <span class="dot" onclick="currentSlide(1)"></span>
                         <span class="dot" onclick="currentSlide(2)"></span>
                         <span class="dot" onclick="currentSlide(3)"></span>
-                    </div>
+                    </div> -->
 
                 </div>
             </div>
         </div>
-
+       
         <script>
             var slideIndex = 1;
             showSlides(slideIndex);
@@ -271,7 +274,12 @@
                 dots[slideIndex - 1].className += " active";
             }
         </script>
-
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx"
+        crossorigin="anonymous"></script>
 
 
     </body>
