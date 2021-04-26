@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ,Species,Country.of.Origin,Region
 0,Arabica,Ethiopia,guji-hambela
 1,Arabica,Ethiopia,guji-hambela
@@ -1338,3 +1339,1345 @@
 1336,Robusta,United States,"kwanza norte province, angola"
 1337,Robusta,India,
 1338,Robusta,Vietnam,
+=======
+,Species,Country.of.Origin,Region
+0,Arabica,Ethiopia,guji-hambela
+1,Arabica,Ethiopia,guji-hambela
+2,Arabica,Guatemala,
+3,Arabica,Ethiopia,oromia
+4,Arabica,Ethiopia,guji-hambela
+5,Arabica,Brazil,
+6,Arabica,Peru,
+7,Arabica,Ethiopia,oromia
+8,Arabica,Ethiopia,oromiya
+9,Arabica,Ethiopia,"snnp/kaffa zone,gimbowereda"
+10,Arabica,Ethiopia,oromia
+11,Arabica,United States,antioquia
+12,Arabica,United States,antioquia
+13,Arabica,United States (Hawaii),kona
+14,Arabica,Ethiopia,oromiya
+15,Arabica,United States,antioquia
+16,Arabica,Indonesia,sulawesi
+17,Arabica,Ethiopia,yirgacheffe
+18,Arabica,China,yunnan
+19,Arabica,Ethiopia,gedio
+20,Arabica,United States,antioquia
+21,Arabica,Costa Rica,san ramon
+22,Arabica,Mexico,xalapa
+23,Arabica,United States,antioquia
+24,Arabica,Ethiopia,sidamo
+25,Arabica,Brazil,south of minas
+26,Arabica,Ethiopia,sidamo
+27,Arabica,Uganda,kapchorwa eastern
+28,Arabica,Honduras,comayagua
+29,Arabica,Taiwan,"leye, alishan township, chiayi county"
+30,Arabica,Nicaragua,
+31,Arabica,"Tanzania, United Republic Of",
+32,Arabica,Brazil,vale da grama
+33,Arabica,Costa Rica,west and central valley
+34,Arabica,Ethiopia,oromia
+35,Arabica,Kenya,muranga
+36,Arabica,United States (Hawaii),kona
+37,Arabica,United States (Hawaii),kona
+38,Arabica,Ethiopia,yirgacheffe
+39,Arabica,United States,antioquia
+40,Arabica,Thailand,chiang rai
+41,Arabica,Brazil,sul de minas - carmo de minas
+42,Arabica,Brazil,sul de minas - carmo de minas
+43,Arabica,Taiwan,natou county
+44,Arabica,Kenya,nyeri
+45,Arabica,Brazil,south of minas
+46,Arabica,Uganda,eastern uganda
+47,Arabica,Colombia,tolima
+48,Arabica,Kenya,kiambu
+49,Arabica,Uganda,"sipi, mt elgon"
+50,Arabica,Ethiopia,sidamo
+51,Arabica,United States (Hawaii),kona
+52,Arabica,Guatemala,nuevo oriente
+53,Arabica,Uganda,eastern
+54,Arabica,Colombia,huila
+55,Arabica,Panama,boquete
+56,Arabica,Ethiopia,oromia
+57,Arabica,Guatemala,acatenango
+58,Arabica,Guatemala,nuevo oriente
+59,Arabica,Ethiopia,addis ababa
+60,Arabica,Peru,cajamarca
+61,Arabica,Papua New Guinea,eastern highlands province
+62,Arabica,El Salvador,apaneca
+63,Arabica,El Salvador,"ataco, apaneca - ilamatepec mountain range"
+64,Arabica,United States (Hawaii),kona
+65,Arabica,Panama,boquete
+66,Arabica,Kenya,kirinyaga
+67,Arabica,Ethiopia,oromia
+68,Arabica,Uganda,bulambuli eastern region
+69,Arabica,Guatemala,huehuetenango
+70,Arabica,Ethiopia,oromia
+71,Arabica,Uganda,kapchorwa
+72,Arabica,United States (Hawaii),kona
+73,Arabica,Brazil,south of minas
+74,Arabica,El Salvador,apaneca
+75,Arabica,China,yunnan
+76,Arabica,Guatemala,huehuetenango
+77,Arabica,Costa Rica,west valley
+78,Arabica,Costa Rica,san ramon
+79,Arabica,Kenya,central kenya
+80,Arabica,Kenya,central kenya
+81,Arabica,Ethiopia,yirgacheffe
+82,Arabica,Ethiopia,yirgacheffe
+83,Arabica,Guatemala,oriente
+84,Arabica,Colombia,santander
+85,Arabica,Colombia,santander
+86,Arabica,Indonesia,lintong
+87,Arabica,Guatemala,huehuetenango
+88,Arabica,Ethiopia,"kefa zone, gimbo distict, at a place called woka araba, south west ethiopia."
+89,Arabica,Colombia,pasto
+90,Arabica,Ethiopia,aricha
+91,Arabica,United States (Hawaii),kona
+92,Arabica,Colombia,cundinamarca
+93,Arabica,United States (Hawaii),kona
+94,Arabica,Ethiopia,sidamo
+95,Arabica,United States (Hawaii),kona
+96,Arabica,Uganda,eastern uganda
+97,Arabica,Colombia,huila
+98,Arabica,Costa Rica,tarrazu
+99,Arabica,Mexico,veracruz
+100,Arabica,Kenya,
+101,Arabica,Kenya,central kenya
+102,Arabica,Brazil,grama valley
+103,Arabica,Mexico,mexico
+104,Arabica,United States (Hawaii),kona
+105,Arabica,Guatemala,"chuva, san marcos"
+106,Arabica,Colombia,huila
+107,Arabica,Colombia,huila
+108,Arabica,Taiwan,natou county
+109,Arabica,"Tanzania, United Republic Of",mbeya
+110,Arabica,Colombia,huila
+111,Arabica,Mexico,coatepec
+112,Arabica,Brazil,south of minas
+113,Arabica,Brazil,south of minas
+114,Arabica,Kenya,
+115,Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區"
+116,Arabica,Uganda,eastern
+117,Arabica,United States (Hawaii),kona
+118,Arabica,Ethiopia,sidamo
+119,Arabica,Ethiopia,sidamo
+120,Arabica,Thailand,thailand
+121,Arabica,Kenya,nyeri
+122,Arabica,Honduras,marcala
+123,Arabica,El Salvador,santa ana
+124,Arabica,Nicaragua,jinotega
+125,Arabica,El Salvador,apaneca
+126,Arabica,Indonesia,"temanggung, indonesia"
+127,Arabica,Japan,ada okinawa japan
+128,Arabica,Costa Rica,tarrazu
+129,Arabica,Guatemala,acatenango
+130,Arabica,Costa Rica,tarrazu
+131,Arabica,Ethiopia,yirgacheffe
+132,Arabica,Costa Rica,costa rica
+133,Arabica,Costa Rica,west valley
+134,Arabica,Costa Rica,
+135,Arabica,Taiwan,taichung xinshe 台中市新社區
+136,Arabica,Colombia,santander
+137,Arabica,Kenya,nyeri
+138,Arabica,Guatemala,oriente
+139,Arabica,Guatemala,acatenango
+140,Arabica,Mexico,el remudadero
+141,Arabica,Uganda,mbale
+142,Arabica,Peru,"penachi, cecanor"
+143,Arabica,Ethiopia,sidamo
+144,Arabica,Kenya,nyeri
+145,Arabica,Colombia,santander
+146,Arabica,Colombia,huila
+147,Arabica,Kenya,nyeri
+148,Arabica,Guatemala,jalapa
+149,Arabica,Guatemala,oriente
+150,Arabica,Colombia,santander
+151,Arabica,Colombia,huila
+152,Arabica,Kenya,
+153,Arabica,Colombia,huila
+154,Arabica,Costa Rica,tres rios
+155,Arabica,Colombia,huila
+156,Arabica,Brazil,vale da grama
+157,Arabica,Brazil,mountains of minas gerais
+158,Arabica,Costa Rica,valle central
+159,Arabica,Uganda,eastern uganda
+160,Arabica,China,yunnan
+161,Arabica,Costa Rica,tarrazu
+162,Arabica,Colombia,cauca
+163,Arabica,China,yunnan
+164,Arabica,Guatemala,oriente
+165,Arabica,Kenya,nyeri
+166,Arabica,Mexico,hustusco
+167,Arabica,Mexico,jaltenango
+168,Arabica,Guatemala,"el tumbador, san marcos"
+169,Arabica,Brazil,mmm
+170,Arabica,Brazil,test
+171,Arabica,Costa Rica,tarrazu
+172,Arabica,Indonesia,sumatra brastagi
+173,Arabica,Colombia,pitalito
+174,Arabica,Colombia,huila
+175,Arabica,Taiwan,"mountain ali, taiwan"
+176,Arabica,United States (Hawaii),kona
+177,Arabica,Mexico,tapachula
+178,Arabica,Ethiopia,limu
+179,Arabica,Kenya,nyeri
+180,Arabica,Honduras,comayagua
+181,Arabica,Colombia,huila
+182,Arabica,Honduras,central region
+183,Arabica,Colombia,la plata
+184,Arabica,Colombia,huila
+185,Arabica,Colombia,huila
+186,Arabica,Mexico,tuxtla gutierrez
+187,Arabica,Brazil,vale da grama
+188,Arabica,Brazil,south of minas
+189,Arabica,Ethiopia,limu
+190,Arabica,Guatemala,nuevo oriente
+191,Arabica,Taiwan,國姓鄉 guoshing township
+192,Arabica,Thailand,chiang rai thailand
+193,Arabica,Colombia,nariño
+194,Arabica,Guatemala,antigua
+195,Arabica,Guatemala,huehuetenango
+196,Arabica,China,yunnan
+197,Arabica,Colombia,huila
+198,Arabica,Colombia,huila
+199,Arabica,Colombia,cauca
+200,Arabica,Colombia,huila
+201,Arabica,"Tanzania, United Republic Of",shizingo village
+202,Arabica,"Tanzania, United Republic Of",mbeya
+203,Arabica,Guatemala,oriente
+204,Arabica,Colombia,cauca
+205,Arabica,United States (Hawaii),kona
+206,Arabica,Mexico,san pedro cotzilnam
+207,Arabica,Mexico,veracruz
+208,Arabica,Mexico,"la concordia, chiapas"
+209,Arabica,Uganda,kasese
+210,Arabica,Guatemala,san marcos
+211,Arabica,Colombia,huila
+212,Arabica,Costa Rica,tarrazu
+213,Arabica,Guatemala,huehuetenango
+214,Arabica,Guatemala,solola
+215,Arabica,Guatemala,norte
+216,Arabica,Colombia,huila
+217,Arabica,Nicaragua,jinotega
+218,Arabica,Brazil,cerrado
+219,Arabica,Costa Rica,tarrazu
+220,Arabica,Ethiopia,snnprg; kafa; telo woreda; shada kebele
+221,Arabica,"Tanzania, United Republic Of",arusha
+222,Arabica,Colombia,huila
+223,Arabica,Guatemala,
+224,Arabica,Kenya,kenya
+225,Arabica,Brazil,"minas gerais, br"
+226,Arabica,Guatemala,oriente
+227,Arabica,El Salvador,apaneca
+228,Arabica,Colombia,huila
+229,Arabica,Guatemala,guatemala
+230,Arabica,Uganda,mt. rwenzori
+231,Arabica,Indonesia,aceh tengah
+232,Arabica,Colombia,huila
+233,Arabica,Taiwan,"nanxi dist., tainan city 臺南市楠西區"
+234,Arabica,Guatemala,oriente
+235,Arabica,Colombia,huila
+236,Arabica,Guatemala,"aldea xeucalvitz, ixil region, quiche department"
+237,Arabica,United States (Hawaii),kona
+238,Arabica,Mexico,santo domingo cacalotepec
+239,Arabica,Ethiopia,"ethiopia, sidamo"
+240,Arabica,Costa Rica,
+241,Arabica,Ethiopia,sidamo
+242,Arabica,Honduras,comayagua
+243,Arabica,Guatemala,huehuetenango
+244,Arabica,Colombia,huila
+245,Arabica,Guatemala,oriente
+246,Arabica,Guatemala,oriente
+247,Arabica,Colombia,huila
+248,Arabica,Colombia,santander
+249,Arabica,Colombia,huila
+250,Arabica,Ethiopia,sidamo
+251,Arabica,Brazil,south of minas
+252,Arabica,Colombia,cauca
+253,Arabica,Kenya,blend
+254,Arabica,Thailand,thailand
+255,Arabica,Kenya,central kenya
+256,Arabica,Uganda,kasese
+257,Arabica,Thailand,
+258,Arabica,Brazil,south of minas
+259,Arabica,Mexico,veracruz
+260,Arabica,Thailand,chiangrai
+261,Arabica,Brazil,south of minas
+262,Arabica,Taiwan,"leye, alishan township, chiayi county 嘉義阿里山樂野村"
+263,Arabica,Colombia,huila
+264,Arabica,Colombia,la plata
+265,Arabica,Taiwan,台灣
+266,Arabica,Colombia,huila
+267,Arabica,Colombia,huila
+268,Arabica,Colombia,huila
+269,Arabica,Taiwan,台中和平區
+270,Arabica,Colombia,santander
+271,Arabica,Mexico,xicotepec de juarez
+272,Arabica,Mexico,la concordia
+273,Arabica,Mexico,la yerbabuena
+274,Arabica,Colombia,nariño
+275,Arabica,Colombia,huila
+276,Arabica,Costa Rica,tarrazu
+277,Arabica,Guatemala,antigua
+278,Arabica,Taiwan,台灣
+279,Arabica,Brazil,south of minas
+280,Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區"
+281,Arabica,Ethiopia,oromia
+282,Arabica,Brazil,south of minas
+283,Arabica,Costa Rica,central valley
+284,Arabica,Guatemala,oriente
+285,Arabica,Brazil,south of minas
+286,Arabica,Ecuador,"province of manabi, ecuador"
+287,Arabica,Colombia,huila
+288,Arabica,Guatemala,oriente
+289,Arabica,Mexico,petatlan
+290,Arabica,Mexico,"la concordia, chiapas"
+291,Arabica,Brazil,carmo de minas
+292,Arabica,Thailand,"doi chaang village, chiang rai, thialand"
+293,Arabica,Thailand,
+294,Arabica,Ethiopia,sidamo
+295,Arabica,Kenya,nyeri
+296,Arabica,Brazil,south of minas
+297,Arabica,Colombia,huila
+298,Arabica,Taiwan,"台南市東山區 (dongshan dist., tainan city)"
+299,Arabica,Colombia,huila
+300,Arabica,China,yunnan
+301,Arabica,Colombia,huila
+302,Arabica,Uganda,west nile
+303,Arabica,United States (Puerto Rico),yauco region
+304,Arabica,Colombia,huila
+305,Arabica,Colombia,huila
+306,Arabica,Colombia,huila
+307,Arabica,Colombia,huila
+308,Arabica,United States (Hawaii),kona
+309,Arabica,Mexico,"huazalingo, hidalgo"
+310,Arabica,Guatemala,quetzaltenango
+311,Arabica,Colombia,cauca
+312,Arabica,Colombia,cundinamarca
+313,Arabica,United States (Hawaii),kona
+314,Arabica,Brazil,south of minas
+315,Arabica,Kenya,meru county
+316,Arabica,Honduras,comayagua
+317,Arabica,Nicaragua,jinotega
+318,Arabica,Brazil,south of minas
+319,Arabica,Taiwan,"leye, alishan township, chiayi county"
+320,Arabica,Costa Rica,west valley
+321,Arabica,Thailand,thailand
+322,Arabica,Colombia,huila
+323,Arabica,Guatemala,huehuetenango
+324,Arabica,Colombia,huila supremo
+325,Arabica,Colombia,huila
+326,Arabica,Guatemala,oriente
+327,Arabica,Guatemala,oriente
+328,Arabica,Colombia,huila
+329,Arabica,Guatemala,oriente
+330,Arabica,Guatemala,oriente
+331,Arabica,Mexico,xicotepec de juarez
+332,Arabica,Indonesia,east java
+333,Arabica,Guatemala,"sacatepequez, guatemala"
+334,Arabica,United States (Hawaii),
+335,Arabica,Brazil,south of minas
+336,Arabica,Guatemala,huehuetenango
+337,Arabica,Colombia,huila
+338,Arabica,China,yunnan
+339,Arabica,Colombia,huila
+340,Arabica,Mexico,"chiapas, jaltenango"
+341,Arabica,Ethiopia,yirgacheffe
+342,Arabica,Uganda,eastern
+343,Arabica,Colombia,cundinamarca
+344,Arabica,Colombia,santander
+345,Arabica,Colombia,santander
+346,Arabica,Taiwan,taichung xinshe 台中市新社區
+347,Arabica,Colombia,huila
+348,Arabica,Mexico,xalapa
+349,Arabica,Colombia,cundinamarca
+350,Arabica,Brazil,south of minas
+351,Arabica,Colombia,cundinamarca
+352,Arabica,Taiwan,
+353,Arabica,Costa Rica,tarrazu
+354,Arabica,Colombia,pitalito
+355,Arabica,Guatemala,oriente
+356,Arabica,Colombia,huila
+357,Arabica,"Tanzania, United Republic Of",nkure- meru
+358,Arabica,Indonesia,bener meriah
+359,Arabica,Ethiopia,oromia
+360,Arabica,Colombia,huila
+361,Arabica,Colombia,huila
+362,Arabica,Guatemala,atitlan
+363,Arabica,Colombia,cundinamarca
+364,Arabica,Honduras,comayagua
+365,Arabica,Colombia,huila
+366,Arabica,Colombia,huila
+367,Arabica,Mexico,xalapa
+368,Arabica,Mexico,chilón
+369,Arabica,Mexico,totutla
+370,Arabica,Guatemala,atitlan
+371,Arabica,Colombia,huila
+372,Arabica,Guatemala,oriente
+373,Arabica,United States (Hawaii),
+374,Arabica,Indonesia,bondowoso
+375,Arabica,Colombia,huila
+376,Arabica,Guatemala,san marcos
+377,Arabica,Colombia,huila
+378,Arabica,Costa Rica,tarrazu
+379,Arabica,Taiwan,
+380,Arabica,Uganda,eastern
+381,Arabica,Thailand,thailand
+382,Arabica,El Salvador,apaneca
+383,Arabica,Colombia,huila
+384,Arabica,Brazil,vale da grama
+385,Arabica,"Tanzania, United Republic Of",karatu northern
+386,Arabica,Colombia,huila
+387,Arabica,Guatemala,oriente
+388,Arabica,Guatemala,antigua
+389,Arabica,Guatemala,oriente
+390,Arabica,United States (Hawaii),kona
+391,Arabica,Colombia,cundinamarca
+392,Arabica,Colombia,huila
+393,Arabica,United States (Hawaii),kona
+394,Arabica,Thailand,
+395,Arabica,Mexico,nayarit
+396,Arabica,Colombia,huila
+397,Arabica,Colombia,guayata
+398,Arabica,Colombia,huila
+399,Arabica,Brazil,south of minas
+400,Arabica,Mexico,chiapas
+401,Arabica,Colombia,santander
+402,Arabica,"Tanzania, United Republic Of",arusha
+403,Arabica,Mexico,veracruz
+404,Arabica,Costa Rica,san ramon
+405,Arabica,United States (Hawaii),kona
+406,Arabica,Costa Rica,central valley
+407,Arabica,Peru,
+408,Arabica,Haiti,"thiotte, haiti"
+409,Arabica,Colombia,pitalito
+410,Arabica,Guatemala,oriente
+411,Arabica,United States (Hawaii),kona
+412,Arabica,Burundi,kayanza
+413,Arabica,Colombia,huila
+414,Arabica,United States (Hawaii),kona
+415,Arabica,United States (Hawaii),
+416,Arabica,Mexico,sierra madre occidental
+417,Arabica,Costa Rica,tarrazu
+418,Arabica,Costa Rica,tarrazu
+419,Arabica,Guatemala,nuevo oriente
+420,Arabica,Uganda,"sipi, mt elgon"
+421,Arabica,Brazil,campos altos - cerrado
+422,Arabica,Colombia,huila
+423,Arabica,Mexico,cuarenteño
+424,Arabica,Taiwan,natou county
+425,Arabica,Taiwan,南投國姓
+426,Arabica,Colombia,eje cafetero
+427,Arabica,Guatemala,antigua
+428,Arabica,Colombia,huila
+429,Arabica,Mexico,chiapas
+430,Arabica,United States (Hawaii),kona
+431,Arabica,Mexico,veracruz
+432,Arabica,Mexico,fortín de las flores
+433,Arabica,Guatemala,oriente
+434,Arabica,Brazil,grama valley
+435,Arabica,Colombia,huila
+436,Arabica,Colombia,la plata
+437,Arabica,Colombia,huila
+438,Arabica,Colombia,cauca
+439,Arabica,Colombia,cundinamarca
+440,Arabica,Brazil,south of minas
+441,Arabica,Guatemala,oriente
+442,Arabica,"Tanzania, United Republic Of",moshi
+443,Arabica,Peru,
+444,Arabica,Vietnam,dala
+445,Arabica,Guatemala,antigua
+446,Arabica,Honduras,marcala
+447,Arabica,China,yunnan
+448,Arabica,China,dehong prefecture
+449,Arabica,El Salvador,apaneca
+450,Arabica,Guatemala,antigua
+451,Arabica,Guatemala,oriente
+452,Arabica,Kenya,kenya
+453,Arabica,Thailand,thailand
+454,Arabica,"Tanzania, United Republic Of",mbinga
+455,Arabica,Colombia,huila
+456,Arabica,Uganda,eastern
+457,Arabica,Colombia,
+458,Arabica,Honduras,san marcos
+459,Arabica,Honduras,comayagua
+460,Arabica,Guatemala,san marcos
+461,Arabica,United States (Hawaii),kona
+462,Arabica,"Tanzania, United Republic Of",kilimanjaro
+463,Arabica,Guatemala,oriente
+464,Arabica,Mexico,chiapas
+465,Arabica,Mexico,"tlanchinol, hidalgo"
+466,Arabica,Mexico,san bartolo tutotepec
+467,Arabica,Colombia,huila
+468,Arabica,Mexico,san isidro
+469,Arabica,Colombia,huila
+470,Arabica,Mexico,la concordia
+471,Arabica,Brazil,south of minas
+472,Arabica,Brazil,mogiana
+473,Arabica,Guatemala,oriente
+474,Arabica,Brazil,south of minas
+475,Arabica,Brazil,south of minas
+476,Arabica,El Salvador,santa ana
+477,Arabica,Ethiopia,limu
+478,Arabica,Colombia,cundinamarca
+479,Arabica,Colombia,huila
+480,Arabica,Brazil,south of minas
+481,Arabica,Brazil,south of minas
+482,Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區"
+483,Arabica,Brazil,chapadão de ferro (cerrado mineiro)
+484,Arabica,Brazil,south of minas
+485,Arabica,Costa Rica,central valley
+486,Arabica,United States (Hawaii),kona
+487,Arabica,Taiwan,chiayi alishan 嘉義縣阿里山鄉
+488,Arabica,United States (Hawaii),kona
+489,Arabica,Mexico,santa catarina juquila
+490,Arabica,United States (Hawaii),kona
+491,Arabica,United States (Hawaii),kona
+492,Arabica,Colombia,huila
+493,Arabica,Colombia,cauca
+494,Arabica,Indonesia,dolok sanggul
+495,Arabica,Guatemala,
+496,Arabica,Brazil,south of minas
+497,Arabica,Brazil,south of minas
+498,Arabica,Brazil,south of minas
+499,Arabica,Uganda,"kasese, mt. rwenzori"
+500,Arabica,Uganda,"kasese, mt. rwenzori"
+501,Arabica,Colombia,huila
+502,Arabica,Vietnam,vietnam cau dat
+503,Arabica,Guatemala,nuevo oriente
+504,Arabica,Guatemala,"el tumbador, san marcos"
+505,Arabica,Guatemala,antigua
+506,Arabica,Brazil,high mogiana
+507,Arabica,Taiwan,嘉義阿里山
+508,Arabica,Uganda,kapchorwa
+509,Arabica,United States (Puerto Rico),yauco region
+510,Arabica,Guatemala,antigua
+511,Arabica,Costa Rica,central valley
+512,Arabica,Brazil,sul de minas
+513,Arabica,Colombia,huila
+514,Arabica,Colombia,huila
+515,Arabica,Colombia,pitalito
+516,Arabica,Colombia,pitalito
+517,Arabica,Colombia,huila
+518,Arabica,Mexico,coatepec
+519,Arabica,Mexico,atoyac de alvarez
+520,Arabica,Mexico,coatepec
+521,Arabica,Colombia,
+522,Arabica,Colombia,huila
+523,Arabica,Colombia,huila
+524,Arabica,Guatemala,"la reforma, san marcos"
+525,Arabica,Colombia,la plata
+526,Arabica,Thailand,
+527,Arabica,Colombia,cauca
+528,Arabica,United States (Hawaii),
+529,Arabica,United States (Hawaii),
+530,Arabica,Colombia,huila
+531,Arabica,Nicaragua,matagalpa
+532,Arabica,Thailand,
+533,Arabica,Brazil,south of minas
+534,Arabica,El Salvador,apaneca
+535,Arabica,Colombia,guayata
+536,Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區"
+537,Arabica,Ethiopia,"blida,kercha,guji,oromia"
+538,Arabica,Taiwan,台東太麻里
+539,Arabica,Philippines,"bukidnon, mindanao, philppines"
+540,Arabica,Philippines,asia pacific
+541,Arabica,Mexico,cuarenteño
+542,Arabica,Mexico,chiapas
+543,Arabica,Brazil,cerrado
+544,Arabica,Uganda,eastern
+545,Arabica,Uganda,west nile
+546,Arabica,Guatemala,antigua
+547,Arabica,Guatemala,antigua
+548,Arabica,Guatemala,
+549,Arabica,Colombia,huila
+550,Arabica,Colombia,huila
+551,Arabica,Guatemala,huehuetenango
+552,Arabica,Colombia,antioquia
+553,Arabica,Mexico,petatlan
+554,Arabica,Vietnam,don duong
+555,Arabica,Mexico,la cumbre
+556,Arabica,United States (Hawaii),kona
+557,Arabica,Colombia,cauca
+558,Arabica,Thailand,
+559,Arabica,Kenya,nyeri
+560,Arabica,Guatemala,san marcos
+561,Arabica,Brazil,south of minas
+562,Arabica,El Salvador,"el balsamo, quezaltepec"
+563,Arabica,Rwanda,gicumbi
+564,Arabica,Vietnam,vietnam tutra
+565,Arabica,Guatemala,oriente
+566,Arabica,Brazil,cerrado
+567,Arabica,Colombia,huila
+568,Arabica,United States,berastagi
+569,Arabica,Guatemala,antigua
+570,Arabica,Colombia,santander
+571,Arabica,Colombia,huila
+572,Arabica,"Tanzania, United Republic Of",arusha
+573,Arabica,Mexico,la concordia
+574,Arabica,Mexico,veracruz
+575,Arabica,Guatemala,oriente
+576,Arabica,Mexico,la concordia
+577,Arabica,El Salvador,santa ana
+578,Arabica,Guatemala,santa rosa
+579,Arabica,Guatemala,santa rosa
+580,Arabica,Guatemala,san marcos
+581,Arabica,Guatemala,santa rosa
+582,Arabica,Guatemala,oriente
+583,Arabica,Indonesia,sapan toraja
+584,Arabica,Guatemala,el progreso
+585,Arabica,Taiwan,"台南市東山區( dongshan dist., tainan city)"
+586,Arabica,El Salvador,cacahuatique
+587,Arabica,Costa Rica,tarrazu
+588,Arabica,Honduras,comayagua
+589,Arabica,Brazil,south of minas
+590,Arabica,China,yunnan
+591,Arabica,China,menglian
+592,Arabica,Colombia,huila
+593,Arabica,Malawi,mzuzu
+594,Arabica,Guatemala,jalapa
+595,Arabica,Colombia,huila
+596,Arabica,United States (Hawaii),kona
+597,Arabica,United States (Hawaii),kona
+598,Arabica,Colombia,antioquia
+599,Arabica,Mexico,chiapas
+600,Arabica,Mexico,veracruz
+601,Arabica,Mexico,atoyac de alvarez
+602,Arabica,Colombia,south huila
+603,Arabica,Colombia,huila
+604,Arabica,United States (Hawaii),kona
+605,Arabica,Panama,boquete
+606,Arabica,United States (Hawaii),kona
+607,Arabica,Brazil,south of minas
+608,Arabica,Brazil,south of minas
+609,Arabica,Laos,"paksong,laos"
+610,Arabica,El Salvador,"el balsamo, quezaltepec"
+611,Arabica,Mexico,veracruz
+612,Arabica,Colombia,huila
+613,Arabica,Brazil,south of minas
+614,Arabica,Brazil,monte carmelo
+615,Arabica,"Tanzania, United Republic Of",karatu arusha
+616,Arabica,"Tanzania, United Republic Of",mbinga
+617,Arabica,Taiwan,嘉義阿里山
+618,Arabica,Mexico,la yerba
+619,Arabica,Uganda,mt elgon
+620,Arabica,Taiwan,chiayi alishan 嘉義縣阿里山鄉
+621,Arabica,Thailand,phahi
+622,Arabica,Colombia,huila
+623,Arabica,El Salvador,
+624,Arabica,Guatemala,antigua
+625,Arabica,Thailand,thailand
+626,Arabica,Mexico,
+627,Arabica,Mexico,mahuixtlan
+628,Arabica,Colombia,52 narino (exact location: mattituy; municipal region: florida code 381
+629,Arabica,United States (Hawaii),kona
+630,Arabica,Mexico,mexico
+631,Arabica,Colombia,huila
+632,Arabica,Colombia,
+633,Arabica,Guatemala,oriente
+634,Arabica,Taiwan,國姓鄉 guoshing township
+635,Arabica,Brazil,south of minas
+636,Arabica,Taiwan,changhua baguashan 彰化市八卦山
+637,Arabica,Brazil,campos altos - cerrado
+638,Arabica,Indonesia,aceh
+639,Arabica,Thailand,thailand
+640,Arabica,Thailand,chiangrai
+641,Arabica,"Tanzania, United Republic Of",ikand village
+642,Arabica,Uganda,eastern
+643,Arabica,Costa Rica,central valley
+644,Arabica,Mexico,veracruz
+645,Arabica,Guatemala,
+646,Arabica,Colombia,huila
+647,Arabica,Colombia,huila
+648,Arabica,Colombia,huila
+649,Arabica,Mexico,oaxaca
+650,Arabica,Mexico,colima
+651,Arabica,Colombia,huila
+652,Arabica,Brazil,south of minas
+653,Arabica,Brazil,south of minas
+654,Arabica,Indonesia,bali
+655,Arabica,Honduras,comayagua
+656,Arabica,Guatemala,oriente
+657,Arabica,Thailand,thailand
+658,Arabica,Thailand,chiangrai
+659,Arabica,"Tanzania, United Republic Of",karatu arusha
+660,Arabica,"Tanzania, United Republic Of",moshi
+661,Arabica,Mexico,chiapas
+662,Arabica,Brazil,south of minas
+663,Arabica,Guatemala,oriente
+664,Arabica,Colombia,huila
+665,Arabica,Guatemala,oriente
+666,Arabica,Mexico,san bartolo tutotepec
+667,Arabica,Mexico,zapotitlan de mendez
+668,Arabica,Mexico,la concordia
+669,Arabica,Guatemala,oriente
+670,Arabica,Brazil,carmo de minas
+671,Arabica,Colombia,huila
+672,Arabica,United States (Hawaii),kona
+673,Arabica,Guatemala,huehuetenango
+674,Arabica,Honduras,"comayagua, honduras"
+675,Arabica,Guatemala,san marcos
+676,Arabica,Guatemala,san marcos
+677,Arabica,Guatemala,el progreso
+678,Arabica,Guatemala,santa rosa
+679,Arabica,Colombia,guayata
+680,Arabica,China,yunnan
+681,Arabica,Brazil,campos altos - cerrado
+682,Arabica,"Tanzania, United Republic Of",arusha meru
+683,Arabica,Brazil,south of minas
+684,Arabica,Guatemala,atitlan
+685,Arabica,Mexico,la yerba
+686,Arabica,Brazil,south of minas
+687,Arabica,Peru,peru
+688,Arabica,Brazil,south of minas
+689,Arabica,Mexico,veracruz
+690,Arabica,Honduras,
+691,Arabica,Colombia,huila
+692,Arabica,Mexico,chiapas
+693,Arabica,Mexico,san pedro cotzilnam
+694,Arabica,Mexico,coatepec
+695,Arabica,Mexico,xalapa
+696,Arabica,Mexico,zihuatanejo de azueta
+697,Arabica,Mexico,veracruz
+698,Arabica,Mexico,xicotepec de juarez
+699,Arabica,Mexico,progreso santa rosa teocelo
+700,Arabica,Mexico,fln mirador
+701,Arabica,Colombia,huila
+702,Arabica,Brazil,south of minas
+703,Arabica,Colombia,huila
+704,Arabica,Colombia,huila
+705,Arabica,Honduras,comayagua
+706,Arabica,Brazil,cerrado
+707,Arabica,Brazil,cerrado
+708,Arabica,Brazil,south of minas
+709,Arabica,Costa Rica,tarrazu
+710,Arabica,Costa Rica,tarrazu
+711,Arabica,China,xishuangbanna prefecture
+712,Arabica,Brazil,south of minas
+713,Arabica,Brazil,chapadão de ferro (cerrado mineiro)
+714,Arabica,Guatemala,huehuetenango
+715,Arabica,Malawi,mzuzu
+716,Arabica,Brazil,south of minas
+717,Arabica,Guatemala,jalapa
+718,Arabica,Mexico,veracruz
+719,Arabica,Colombia,antioquia
+720,Arabica,Taiwan,changhua baguashan 彰化市八卦山
+721,Arabica,Taiwan,taichung xinshe 台中市新社區
+722,Arabica,Guatemala,oriente
+723,Arabica,Colombia,huila
+724,Arabica,Mexico,"la concordia, chiapas"
+725,Arabica,Costa Rica,central valley
+726,Arabica,Guatemala,jalapa
+727,Arabica,Mexico,"jaltocan, hidalgo"
+728,Arabica,Mexico,veracruz
+729,Arabica,Guatemala,oriente
+730,Arabica,Brazil,grama valley
+731,Arabica,Mexico,santa catarina juquila
+732,Arabica,Brazil,south of minas
+733,Arabica,Colombia,huila
+734,Arabica,Brazil,brazil matas de minas
+735,Arabica,Taiwan,
+736,Arabica,Guatemala,nuevo oriente
+737,Arabica,Brazil,south of minas
+738,Arabica,El Salvador,apaneca
+739,Arabica,Honduras,marcala
+740,Arabica,Malawi,mzuzu
+741,Arabica,Brazil,south of minas
+742,Arabica,Taiwan,nantou
+743,Arabica,Mexico,veracruz
+744,Arabica,United States (Hawaii),kona
+745,Arabica,Mexico,"calnali, hidalgo"
+746,Arabica,Guatemala,antigua
+747,Arabica,Mexico,veracruz
+748,Arabica,Mexico,juquila
+749,Arabica,El Salvador,
+750,Arabica,Mexico,veracruz
+751,Arabica,Mexico,canoas
+752,Arabica,Colombia,huila
+753,Arabica,Colombia,huila
+754,Arabica,Brazil,
+755,Arabica,Colombia,cauca
+756,Arabica,Brazil,south of minas
+757,Arabica,Honduras,comayagua
+758,Arabica,Nicaragua,jinotega
+759,Arabica,"Tanzania, United Republic Of",ruvuma
+760,Arabica,"Tanzania, United Republic Of",northern
+761,Arabica,Brazil,south of minas
+762,Arabica,Thailand,thailand
+763,Arabica,Honduras,marcala
+764,Arabica,Guatemala,atitlan
+765,Arabica,Brazil,cerrado
+766,Arabica,"Tanzania, United Republic Of","ilomba vilage, mbozi"
+767,Arabica,Mexico,veracruz
+768,Arabica,Mexico,"la concordia, chiapas"
+769,Arabica,Taiwan,yunlin 雲林縣石壁
+770,Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區"
+771,Arabica,Colombia,huila
+772,Arabica,Mexico,san bartolo tutotepec
+773,Arabica,Guatemala,oriente
+774,Arabica,Mexico,altotonga
+775,Arabica,Mexico,colima
+776,Arabica,Colombia,huila
+777,Arabica,Indonesia,aceh gayo
+778,Arabica,Colombia,huila
+779,Arabica,Brazil,south of minas
+780,Arabica,Brazil,south of minas
+781,Arabica,Costa Rica,tres rios
+782,Arabica,"Tanzania, United Republic Of",kilimanjaro
+783,Arabica,"Tanzania, United Republic Of",ngorogoro
+784,Arabica,Colombia,
+785,Arabica,Costa Rica,turrialba
+786,Arabica,United States (Hawaii),kona
+787,Arabica,Mexico,coatepec
+788,Arabica,Mexico,tapachula
+789,Arabica,Mexico,coatepec
+790,Arabica,Vietnam,don duong
+791,Arabica,Mexico,veracruz
+792,Arabica,United States (Hawaii),kona
+793,Arabica,Colombia,cauca
+794,Arabica,Honduras,el paraíso
+795,Arabica,Honduras,guinope el paraíso
+796,Arabica,Brazil,south of minas
+797,Arabica,"Tanzania, United Republic Of",kilimanjaro
+798,Arabica,Laos,lao p.d.r.
+799,Arabica,"Tanzania, United Republic Of",meru
+800,Arabica,Malawi,mzuzu
+801,Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區"
+802,Arabica,Thailand,thailand
+803,Arabica,Costa Rica,central valley
+804,Arabica,Honduras,occidental
+805,Arabica,Colombia,huila
+806,Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區"
+807,Arabica,Brazil,"minas gerais, br"
+808,Arabica,Mexico,coscomatepec
+809,Arabica,Brazil,south of minas
+810,Arabica,Brazil,cerrado
+811,Arabica,Guatemala,san marcos
+812,Arabica,Brazil,south of minas
+813,Arabica,Guatemala,oriente
+814,Arabica,Colombia,huila
+815,Arabica,Guatemala,oriente
+816,Arabica,Guatemala,santa rosa
+817,Arabica,Honduras,comayagua
+818,Arabica,Brazil,monte carmelo
+819,Arabica,El Salvador,"el balsamo, quezaltepec"
+820,Arabica,Guatemala,nuevo oriente
+821,Arabica,"Tanzania, United Republic Of",mbeya
+822,Arabica,Nicaragua,
+823,Arabica,Zambia,mubuyu estate
+824,Arabica,Honduras,
+825,Arabica,Taiwan,taichung xinshe 台中市新社區
+826,Arabica,Mexico,chiapas
+827,Arabica,Mexico,"chapulhuacan, hidalgo"
+828,Arabica,Mexico,"huazalingo, hidalgo"
+829,Arabica,Mexico,veracruz
+830,Arabica,Mexico,fortín de las flores
+831,Arabica,Brazil,grama valley
+832,Arabica,Colombia,cundinamarca
+833,Arabica,Guatemala,oriente
+834,Arabica,Costa Rica,tarrazu
+835,Arabica,Brazil,monte carmelo
+836,Arabica,Indonesia,bali
+837,Arabica,Guatemala,norte
+838,Arabica,Brazil,south of minas
+839,Arabica,Brazil,south of minas
+840,Arabica,Myanmar,ywar ngan
+841,Arabica,Mexico,chiapas
+842,Arabica,Honduras,marcala
+843,Arabica,Costa Rica,tres rios
+844,Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區"
+845,Arabica,Indonesia,lington nihuta
+846,Arabica,Malawi,kakoma
+847,Arabica,Brazil,south of minas
+848,Arabica,Honduras,comayagua
+849,Arabica,Mexico,"siltepec el triunfo, chiapas, mexico"
+850,Arabica,Colombia,huila
+851,Arabica,United States (Hawaii),kona
+852,Arabica,Brazil,sul de minas
+853,Arabica,Guatemala,oriente
+854,Arabica,Mexico,veracruz
+855,Arabica,Mexico,coatepec
+856,Arabica,Brazil,cerrado
+857,Arabica,Colombia,huila
+858,Arabica,United States (Hawaii),kona
+859,Arabica,Guatemala,san marcos
+860,Arabica,Vietnam,vietnam
+861,Arabica,"Tanzania, United Republic Of",ngorogoro
+862,Arabica,Brazil,
+863,Arabica,Mexico,"tenango de doria, hidalgo"
+864,Arabica,Mexico,tepictla
+865,Arabica,Mexico,oaxaca
+866,Arabica,Mexico,la concordia
+867,Arabica,Mexico,la concordia
+868,Arabica,Colombia,huila
+869,Arabica,Colombia,huila
+870,Arabica,Brazil,south of minas
+871,Arabica,Guatemala,san marcos
+872,Arabica,Guatemala,santa rosa
+873,Arabica,Honduras,marcala
+874,Arabica,"Tanzania, United Republic Of",mbinga
+875,Arabica,Nicaragua,jinotega
+876,Arabica,Colombia,la plata
+877,Arabica,Brazil,south of minas
+878,Arabica,"Tanzania, United Republic Of",mbinga
+879,Arabica,"Tanzania, United Republic Of","ilomba vilage, mbozi"
+880,Arabica,Brazil,south of minas
+881,Arabica,Indonesia,bener meriah
+882,Arabica,Honduras,comayagua
+883,Arabica,Costa Rica,tarrazu
+884,Arabica,Mexico,veracruz
+885,Arabica,Taiwan,changhua baguashan 彰化市八卦山
+886,Arabica,Taiwan,nantou
+887,Arabica,Mexico,"la concordia, chiapas"
+888,Arabica,Guatemala,jalapa
+889,Arabica,Mexico,tuxtla gutierrez
+890,Arabica,Mexico,yajalon
+891,Arabica,Mexico,veracruz
+892,Arabica,Mexico,"la concordia, chiapas"
+893,Arabica,Mexico,"sacún palma, municipio de chilón, chiapas"
+894,Arabica,United States (Hawaii),kona
+895,Arabica,Honduras,western region
+896,Arabica,Guatemala,huehuetenango
+897,Arabica,Taiwan,natou county
+898,Arabica,Costa Rica,turrialba
+899,Arabica,"Tanzania, United Republic Of","oldeani , mongola"
+900,Arabica,Malawi,mzuzu
+901,Arabica,Taiwan,natou county
+902,Arabica,Brazil,south of minas
+903,Arabica,Guatemala,oriente
+904,Arabica,Mexico,"la concordia, chiapas"
+905,Arabica,Mexico,la concordia
+906,Arabica,Mexico,la concordia
+907,Arabica,Thailand,"doi chaang village, chiang rai, thialand"
+908,Arabica,Thailand,
+909,Arabica,Costa Rica,tarrazu
+910,Arabica,Guatemala,santa rosa
+911,Arabica,Nicaragua,jalapa
+912,Arabica,Honduras,comayagua
+913,Arabica,Guatemala,santa rosa
+914,Arabica,Taiwan,古坑鄉荷包村尖山坑60號
+915,Arabica,Myanmar,ywar ngan township
+916,Arabica,Costa Rica,occidental
+917,Arabica,Malawi,mzuzu
+918,Arabica,Guatemala,oriente
+919,Arabica,Taiwan,natou county
+920,Arabica,Brazil,sul de minas
+921,Arabica,Haiti,"dondon, haiti"
+922,Arabica,Taiwan,taichung xinshe 台中市新社區
+923,Arabica,Mexico,"la concordia, chiapas"
+924,Arabica,Mexico,amatenango de la frontera
+925,Arabica,Mexico,temaxcalapa
+926,Arabica,Mexico,manzanillo
+927,Arabica,Mexico,tapachula
+928,Arabica,Mexico,atoyac de alvarez
+929,Arabica,Indonesia,ijen
+930,Arabica,Brazil,sul de minas
+931,Arabica,Guatemala,oriente
+932,Arabica,Colombia,cauca
+933,Arabica,United States (Hawaii),kona
+934,Arabica,Mexico,veracruz
+935,Arabica,Guatemala,san marcos
+936,Arabica,Brazil,cerrado
+937,Arabica,Honduras,marcala
+938,Arabica,Taiwan,苗栗三灣
+939,Arabica,Malawi,mzuzu
+940,Arabica,Brazil,south of minas
+941,Arabica,Guatemala,"san lucas toliman, solola"
+942,Arabica,Mexico,siltepec el triunfo
+943,Arabica,Peru,puno
+944,Arabica,Guatemala,oriente
+945,Arabica,Mexico,"huazalingo, hidalgo"
+946,Arabica,Mexico,"coatepec, coatepec"
+947,Arabica,Colombia,huila
+948,Arabica,Colombia,cauca
+949,Arabica,United States (Hawaii),kona
+950,Arabica,Colombia,huila
+951,Arabica,Honduras,comayagua
+952,Arabica,Mexico,veracruz
+953,Arabica,Brazil,cerrado
+954,Arabica,Honduras,marcala
+955,Arabica,Brazil,mantiqueira de minas
+956,Arabica,Philippines,"davao city, region 11"
+957,Arabica,Malawi,mzuzu
+958,Arabica,Honduras,san marcos
+959,Arabica,Mexico,tapachula
+960,Arabica,Mexico,veracruz
+961,Arabica,Brazil,matas de minas        
+962,Arabica,Taiwan,"dongshan dist., tainan city 台南市東山區"
+963,Arabica,Brazil,south of minas
+964,Arabica,Nicaragua,jinotega
+965,Arabica,Honduras,marcala
+966,Arabica,Guatemala,huehuetenango
+967,Arabica,"Tanzania, United Republic Of",karatu ngorogoro
+968,Arabica,Taiwan,nantou
+969,Arabica,Guatemala,"sacatepequez, guatemala"
+970,Arabica,Mexico,motozintla
+971,Arabica,Nicaragua,"dipilto, nueva segovia"
+972,Arabica,"Tanzania, United Republic Of","ruvuma, mbinga"
+973,Arabica,Mexico,"chiapas, jaltenango"
+974,Arabica,Costa Rica,tres rios
+975,Arabica,Honduras,central region
+976,Arabica,Thailand,chiangrai
+977,Arabica,Philippines,corillera administrative
+978,Arabica,"Tanzania, United Republic Of",mbinga
+979,Arabica,Malawi,southern- zomba
+980,Arabica,Costa Rica,central valley
+981,Arabica,Brazil,monte carmelo
+982,Arabica,Mexico,tapachula
+983,Arabica,Guatemala,oriente
+984,Arabica,Brazil,south of minas
+985,Arabica,United States (Hawaii),kona
+986,Arabica,Ethiopia,sidamo
+987,Arabica,Brazil,alta paulista (sao paulo)
+988,Arabica,Nicaragua,jinotega
+989,Arabica,United States,central america
+990,Arabica,"Tanzania, United Republic Of","iwala village, mbeya rural"
+991,Arabica,Costa Rica,naranjo
+992,Arabica,United States (Puerto Rico),yauco region
+993,Arabica,Mexico,san fernando
+994,Arabica,Mexico,santo reyes nopala
+995,Arabica,Mexico,santa maria sitepec
+996,Arabica,Mexico,talpa de allende
+997,Arabica,United States (Hawaii),
+998,Arabica,Brazil,grama valley
+999,Arabica,El Salvador,apaneca
+1000,Arabica,Brazil,grama valley
+1001,Arabica,Guatemala,norte
+1002,Arabica,Colombia,guayata
+1003,Arabica,Guatemala,oriente
+1004,Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區"
+1005,Arabica,Honduras,san marcos
+1006,Arabica,Brazil,cerrado
+1007,Arabica,"Tanzania, United Republic Of",arusha
+1008,Arabica,Uganda,eastern
+1009,Arabica,Taiwan,nantou
+1010,Arabica,Thailand,thailand
+1011,Arabica,Mexico,"motozintla, chiapas"
+1012,Arabica,Mexico,adolfo lopez mateos
+1013,Arabica,Taiwan,taiwan
+1014,Arabica,Guatemala,oriente
+1015,Arabica,Kenya,kiambu
+1016,Arabica,Mexico,veracruz
+1017,Arabica,Myanmar,pyinoolwin
+1018,Arabica,United States (Hawaii),kona
+1019,Arabica,"Tanzania, United Republic Of","manyara, karatu"
+1020,Arabica,Brazil,mantiqueira de minas
+1021,Arabica,Taiwan,台中新社
+1022,Arabica,Brazil,south of minas
+1023,Arabica,Nicaragua,matagalpa
+1024,Arabica,Guatemala,jalapa
+1025,Arabica,Taiwan,taichung taiping 台中市太平區
+1026,Arabica,Taiwan,nantou
+1027,Arabica,Taiwan,new taipei zhonghe 新北市中和區
+1028,Arabica,Mexico,ixhuatlan del cafe
+1029,Arabica,Thailand,
+1030,Arabica,Laos,"paksong,laos"
+1031,Arabica,Guatemala,orient
+1032,Arabica,Mexico,motozintla
+1033,Arabica,Mexico,oaxaca
+1034,Arabica,Mexico,veracruz
+1035,Arabica,United States (Hawaii),kona
+1036,Arabica,Colombia,huila
+1037,Arabica,Brazil,monte carmelo
+1038,Arabica,Myanmar,ywar ngan
+1039,Arabica,Guatemala,huehuetenango
+1040,Arabica,Nicaragua,jinotega
+1041,Arabica,Honduras,"siguatepeque, comayagua"
+1042,Arabica,Panama,boquete
+1043,Arabica,Honduras,marcala
+1044,Arabica,Honduras,central region
+1045,Arabica,Costa Rica,san ramon
+1046,Arabica,Mexico,oaxaca
+1047,Arabica,Haiti,haiti
+1048,Arabica,United States (Hawaii),kona
+1049,Arabica,Taiwan,taiwan
+1050,Arabica,Indonesia,sumatra brastagi
+1051,Arabica,Guatemala,antigua
+1052,Arabica,Costa Rica,tarrazu
+1053,Arabica,Malawi,southern- zomba
+1054,Arabica,Mexico,"el desmoronado, talpan de allende jalisco"
+1055,Arabica,Colombia,santander
+1056,Arabica,Guatemala,"san lucas toliman, solola"
+1057,Arabica,Guatemala,oriente
+1058,Arabica,Guatemala,oriente
+1059,Arabica,Colombia,
+1060,Arabica,Brazil,monte carmelo
+1061,Arabica,Nicaragua,nueva segovia
+1062,Arabica,"Tanzania, United Republic Of",arusha
+1063,Arabica,Brazil,south of minas
+1064,Arabica,Honduras,occidental
+1065,Arabica,Guatemala,huehuetenango
+1066,Arabica,United States (Hawaii),
+1067,Arabica,Colombia,
+1068,Arabica,Taiwan,taiwan
+1069,Arabica,Guatemala,santa rosa
+1070,Arabica,Honduras,ocotepeque
+1071,Arabica,Mauritius,chamarel (south west)
+1072,Arabica,Brazil,vale da grama
+1073,Arabica,Myanmar,pyin oo lwin
+1074,Arabica,Guatemala,oriente
+1075,Arabica,Brazil,mantiqueira de minas
+1076,Arabica,United States (Hawaii),kona
+1077,Arabica,Guatemala,huehuetenango
+1078,Arabica,Mexico,zaragoza itundujia
+1079,Arabica,Honduras,marcala
+1080,Arabica,Taiwan,南投國姓
+1081,Arabica,El Salvador,"department of ahuachapan, municipality of apanecallamatepec mountain"
+1082,Arabica,China,yunnan
+1083,Arabica,Taiwan,nantou
+1084,Arabica,Mexico,pochutla
+1085,Arabica,Mexico,la concordia
+1086,Arabica,Burundi,mumirwa
+1087,Arabica,"Tanzania, United Republic Of",mkuu rombo
+1088,Arabica,"Tanzania, United Republic Of",arusha
+1089,Arabica,Taiwan,taichung xinshe 台中市新社區
+1090,Arabica,Guatemala,oriente
+1091,Arabica,Mexico,chilón
+1092,Arabica,United States (Hawaii),kona
+1093,Arabica,Ethiopia,kelem welega
+1094,Arabica,Brazil,cerrado - monte carmelo - minas gerais
+1095,Arabica,Honduras,comayagua
+1096,Arabica,Mexico,sierra madre occidental
+1097,Arabica,Myanmar,"yauk sauk, shan state"
+1098,Arabica,Myanmar,ywar ngan
+1099,Arabica,Nicaragua,matagalpa
+1100,Arabica,United States (Hawaii),kona
+1101,Arabica,Colombia,
+1102,Arabica,Taiwan,chiayi fanlu嘉義縣番路鄉
+1103,Arabica,Guatemala,oriente
+1104,Arabica,Mexico,"calnali, hidalgo"
+1105,Arabica,Vietnam,dala
+1106,Arabica,Nicaragua,jinotega
+1107,Arabica,Honduras,marcala
+1108,Arabica,Guatemala,oriente
+1109,Arabica,Mexico,coatepec
+1110,Arabica,Mexico,zaragoza itundujia
+1111,Arabica,Mexico,veracruz
+1112,Arabica,Guatemala,oriente
+1113,Arabica,United States (Hawaii),kona
+1114,Arabica,Brazil,mantiqueira de minas
+1115,Arabica,Taiwan,苗栗泰安
+1116,Arabica,Nicaragua,
+1117,Arabica,Taiwan,yunlin gukeng he bao 雲林縣古坑鄉荷苞村
+1118,Arabica,Taiwan,changhua baguashan 彰化市八卦山
+1119,Arabica,Taiwan,changhua baguashan 彰化市八卦山
+1120,Arabica,Mexico,zaragoza itundujia
+1121,Arabica,Mexico,escuitla
+1122,Arabica,Nicaragua,jinotega
+1123,Arabica,Myanmar,"doe kwin, pyin oo lwin"
+1124,Arabica,Mexico,"sierra fraylesca, chiapas"
+1125,Arabica,Taiwan,changhua baguashan 彰化市八卦山
+1126,Arabica,Thailand,thailand
+1127,Arabica,Mexico,coatepec
+1128,Arabica,Mexico,san miguel del puerto
+1129,Arabica,Ethiopia,limu
+1130,Arabica,Colombia,huila
+1131,Arabica,United States (Hawaii),kona
+1132,Arabica,Mexico,chiapas
+1133,Arabica,Mexico,"motozintla, chiapas"
+1134,Arabica,Mexico,veracruz
+1135,Arabica,Mexico,jaltenango
+1136,Arabica,Mexico,coatepec
+1137,Arabica,Mexico,veracruz
+1138,Arabica,United States (Hawaii),kona
+1139,Arabica,Kenya,kiambu
+1140,Arabica,Guatemala,san marcos
+1141,Arabica,Nicaragua,jinotega
+1142,Arabica,Mexico,veracruz
+1143,Arabica,United States (Hawaii),kona
+1144,Arabica,Guatemala,oriente
+1145,Arabica,Taiwan,"taiwu township , pingtung county 屏東縣泰武鄉"
+1146,Arabica,Taiwan,"baihe dist., tainan city 臺南市白河區"
+1147,Arabica,Thailand,thailand
+1148,Arabica,Peru,huanuco
+1149,Arabica,Costa Rica,brunca
+1150,Arabica,Mexico,"la concordia, chiapas"
+1151,Arabica,Mexico,chiapas
+1152,Arabica,Mexico,chiapas
+1153,Arabica,Mexico,zaragoza itundujia
+1154,Arabica,Mexico,pochutla
+1155,Arabica,Guatemala,antigua
+1156,Arabica,Mexico,tuxtla gutierrez
+1157,Arabica,Guatemala,oriente
+1158,Arabica,El Salvador,cacahuatique
+1159,Arabica,Thailand,thailand
+1160,Arabica,Guatemala,oriente
+1161,Arabica,Mexico,"la concordia, chiapas"
+1162,Arabica,Mexico,"tenango de doria, hidalgo"
+1163,Arabica,Mexico,"coatepec, coatepec"
+1164,Arabica,Thailand,
+1165,Arabica,Mexico,tepetzingo
+1166,Arabica,Mexico,la concordia
+1167,Arabica,Colombia,huila
+1168,Arabica,Guatemala,"chuva, san marcos"
+1169,Arabica,Nicaragua,jinotega
+1170,Arabica,Taiwan,nantou
+1171,Arabica,Colombia,cundinamarca
+1172,Arabica,Mexico,la concordia
+1173,Arabica,Mexico,"coatepec, coatepec"
+1174,Arabica,Guatemala,oriente
+1175,Arabica,Guatemala,oriente
+1176,Arabica,Mexico,xicotepec de juarez
+1177,Arabica,Cote d?Ivoire,cnra station of divo
+1178,Arabica,Colombia,pereira
+1179,Arabica,Mexico,zentla
+1180,Arabica,Mexico,zentla
+1181,Arabica,Guatemala,oriente
+1182,Arabica,Taiwan,natou county
+1183,Arabica,Mexico,veracruz
+1184,Arabica,Guatemala,santa rosa
+1185,Arabica,Honduras,ocotepeque
+1186,Arabica,Guatemala,occidente
+1187,Arabica,Guatemala,nuevo oriente
+1188,Arabica,Costa Rica,san rafael
+1189,Arabica,Mexico,zaragoza itundujia
+1190,Arabica,Mexico,yajalon
+1191,Arabica,Mexico,"pluma hidalogo, oaxaca"
+1192,Arabica,Guatemala,san marcos
+1193,Arabica,United States (Puerto Rico),yauco region
+1194,Arabica,Mexico,zaragoza itundujia
+1195,Arabica,Mexico,tlacuilotepec
+1196,Arabica,Mexico,talpa de allende
+1197,Arabica,,
+1198,Arabica,Guatemala,oriente
+1199,Arabica,Honduras,intibuca
+1200,Arabica,Peru,san ignacio
+1201,Arabica,Mexico,"iliatenco, guerrero"
+1202,Arabica,Mexico,zaragoza itundujia
+1203,Arabica,Mexico,amatenango de la frontera
+1204,Arabica,Mexico,"la concordia, chiapas"
+1205,Arabica,Mexico,zaragoza itundujia
+1206,Arabica,Nicaragua,jalapa
+1207,Arabica,United States (Hawaii),kona
+1208,Arabica,Guatemala,oriente
+1209,Arabica,Mexico,veracruz
+1210,Arabica,Mexico,veracruz
+1211,Arabica,Mexico,"ohuapan, tlaltetela"
+1212,Arabica,China,yunnan
+1213,Arabica,Mexico,yecuatla
+1214,Arabica,Nicaragua,nueva segovia
+1215,Arabica,Nicaragua,
+1216,Arabica,Guatemala,oriente
+1217,Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區"
+1218,Arabica,Mexico,tapachula
+1219,Arabica,Mexico,cofradia de suchitlan
+1220,Arabica,United States (Hawaii),kona
+1221,Arabica,Mexico,"sierra, chiapas"
+1222,Arabica,Mexico,villa talea de castro
+1223,Arabica,Mexico,los angeles
+1224,Arabica,Brazil,monte carmelo
+1225,Arabica,Mexico,zaragoza itundujia
+1226,Arabica,United States (Hawaii),kona
+1227,Arabica,Guatemala,oriente
+1228,Arabica,Guatemala,oriente
+1229,Arabica,Mexico,"xochitonalco, huautla        "
+1230,Arabica,Guatemala,oriente
+1231,Arabica,United States (Hawaii),kona
+1232,Arabica,United States (Hawaii),kona
+1233,Arabica,Indonesia,ijen
+1234,Arabica,Mexico,cordoba
+1235,Arabica,Taiwan,"台南市東山區( dongshan dist., tainan city)"
+1236,Arabica,Honduras,intibuca
+1237,Arabica,United States (Hawaii),kona
+1238,Arabica,Guatemala,oriente
+1239,Arabica,China,yunnan
+1240,Arabica,Guatemala,oriente
+1241,Arabica,Mexico,"motozintla, chiapas"
+1242,Arabica,Colombia,
+1243,Arabica,Costa Rica,occidental
+1244,Arabica,Mexico,petatlan
+1245,Arabica,Guatemala,oriente
+1246,Arabica,Nicaragua,jinotega
+1247,Arabica,Brazil,
+1248,Arabica,Guatemala,oriente
+1249,Arabica,Taiwan,"dongshan dist., tainan city 臺南市東山區"
+1250,Arabica,United States (Hawaii),kona
+1251,Arabica,Mexico,coatepec
+1252,Arabica,Guatemala,oriente
+1253,Arabica,Brazil,south of minas
+1254,Arabica,Guatemala,oriente
+1255,Arabica,Mexico,zaragoza itundujia
+1256,Arabica,Haiti,"dondon, haiti"
+1257,Arabica,United States (Hawaii),kona
+1258,Arabica,Mexico,"motozintla, chiapas"
+1259,Arabica,Peru,san ignacio
+1260,Arabica,India,chickmangalore
+1261,Arabica,Mexico,"pluma hidalogo, oaxaca"
+1262,Arabica,Guatemala,oriente
+1263,Arabica,Mexico,coatepec
+1264,Arabica,Guatemala,oriente
+1265,Arabica,Guatemala,oriente
+1266,Arabica,United States (Hawaii),kona
+1267,Arabica,United States (Hawaii),kona
+1268,Arabica,Mexico,zaragoza itundujia
+1269,Arabica,Indonesia,indonesia
+1270,Arabica,Mexico,tepictla
+1271,Arabica,Honduras,intibuca
+1272,Arabica,Philippines,"benguet, mountain province"
+1273,Arabica,Brazil,monte carmelo
+1274,Arabica,Guatemala,oriente
+1275,Arabica,Guatemala,oriente
+1276,Arabica,Mexico,tlacuilotepec
+1277,Arabica,Mexico,ocosingo
+1278,Arabica,Mexico,
+1279,Arabica,Mexico,huautla de jimenez
+1280,Arabica,Mexico,menglian
+1281,Arabica,Mexico,zaragoza itundujia
+1282,Arabica,Mexico,coatepec
+1283,Arabica,Guatemala,oriente
+1284,Arabica,Guatemala,oriente
+1285,Arabica,Mexico,chiapas
+1286,Arabica,United States (Hawaii),kona
+1287,Arabica,Guatemala,oriente
+1288,Arabica,Mexico,"chocaman, veracruz"
+1289,Arabica,Mexico,xalapa
+1290,Arabica,Mexico,coatepec
+1291,Arabica,United States (Hawaii),kona
+1292,Arabica,Brazil,campos altos - cerrado
+1293,Arabica,Honduras,intibuca
+1294,Arabica,Mexico,sierra alta mixe y zapoteca
+1295,Arabica,Colombia,
+1296,Arabica,United States (Hawaii),kona
+1297,Arabica,Haiti,marmelade
+1298,Arabica,Costa Rica,occidental
+1299,Arabica,Mexico,tlatlauquitepec
+1300,Arabica,Mexico,veracruz
+1301,Arabica,Mexico,"sierra norte yajalon, chiapas"
+1302,Arabica,Brazil,cerrado
+1303,Arabica,Honduras,marcala
+1304,Arabica,Honduras,marcala
+1305,Arabica,Honduras,marcala
+1306,Arabica,Mexico,juchique de ferrer
+1307,Arabica,Haiti,"department d'artibonite , haiti"
+1308,Arabica,Nicaragua,jalapa
+1309,Arabica,Guatemala,nuevo oriente
+1310,Arabica,Honduras,comayagua
+1311,Robusta,Uganda,sheema south western
+1312,Robusta,India,chikmagalur karnataka indua
+1313,Robusta,India,chikmagalur
+1314,Robusta,Uganda,central
+1315,Robusta,Uganda,luwero central region
+1316,Robusta,India,chikmagalur
+1317,Robusta,India,chikmagalur
+1318,Robusta,India,chikmagalur karnataka india
+1319,Robusta,India,chikmagalur karnataka
+1320,Robusta,Uganda,western
+1321,Robusta,Uganda,iganga namadrope eastern
+1322,Robusta,India,chikmagalur karnataka
+1323,Robusta,India,chikmagalur
+1324,Robusta,Uganda,eastern
+1325,Robusta,Uganda,south western
+1326,Robusta,India,chikmagalur
+1327,Robusta,India,chikmagalur
+1328,Robusta,Uganda,western
+1329,Robusta,Uganda,western
+1330,Robusta,Uganda,southern
+1331,Robusta,India,chikmagalur
+1332,Robusta,India,chikmagalur
+1333,Robusta,United States,chikmagalur
+1334,Robusta,Ecuador,"san juan, playas"
+1335,Robusta,Ecuador,"san juan, playas"
+1336,Robusta,United States,"kwanza norte province, angola"
+1337,Robusta,India,
+1338,Robusta,Vietnam,
+>>>>>>> d887c6532a05df76fddf867c3daae47200023481
