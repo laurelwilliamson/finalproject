@@ -9,7 +9,8 @@ Project Overview Requirements:
 The project:
 - Software: HTML/CSS, JavaScript, Visual Studio Code 1.49.1, BootStrap 4.0.0, pandas/Lux, sklearn, Google Maps.
 
-For the model I will use 17 independent variables. The original dataset has 44 variables.
+For the model we used 17 independent variables. The original dataset has 44 variables.
+
 Dependent variable:
 Total cup points: Number of points the end product coffee has stored by the CQI jury (1-100 points; 100 is the highest score)
 
