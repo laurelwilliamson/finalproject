@@ -70,13 +70,14 @@
 
             /* Caption text */
             .text {
-                color: #f2f2f2;
+                color: #361a1a;
                 font-size: 15px;
                 padding: 8px 12px;
                 position: absolute;
                 bottom: 8px;
                 width: 100%;
                 text-align: center;
+                font-style: italic;
             }
 
             /* Number text (1/3 etc) */
@@ -146,8 +147,8 @@
     </head>
 
     <body>
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-            <a class="navbar-brand" href="/" id="logo">Coffee</a>
+        <nav class=" navbar navbar-expand-lg navbar-dark bg-dark">
+            <a class="navbar-brand" href="index.html" id="logo">Coffee</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -160,7 +161,7 @@
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
                             data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             Plots
-                        </a> 
+                        </a>
                         <div class="dropdown-menu">
                             <a href="/viz">Visualizing Coffee Data</a>
                             <a href="/processingmethod">Processing Methods</a><br>
@@ -170,6 +171,9 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="https://www.google.com/maps/d/edit?mid=13QQxvNDAoxWdx5HJOsxkX-SQP8gnJ7Fv&ll=7.806689113241809%2C-172.0701841045268&z=3">Map</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://public.tableau.com/profile/david.grimmett#!/vizhome/Project3_16192797261040/Dashboard1">Tableau</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/country">Country</a>
@@ -182,28 +186,43 @@
             </div>
         </nav>
         <p></p>
-        
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
 
-                    <div class="slideshow_container">
+                    <div class="center">
                         <div class="mySlides">
                             <div class="numbertext">1</div>
                             <img src="/static/images/Bean-Belt-Map-19fq8qp.png" style="width:1000px;height:500px;">
-                            <div class="text"></div>
+                            <p>&nbsp;</p>
+                            <p>&nbsp;</p>
+                            <div class="text">"Coffee is the common man's gold, and like gold brings to every man the"
+                                feeling of luxury and nobility...
+                                Take time in your preparations of coffee and...
+                                God will be with you and bless you and
+                                your table. Where coffee is served there is grace and splendor ...
+                                and friendship and happiness" - Sheik Asari
+                                Djezeri Hanball Abd al-Kadir, 1587.
+                            </div>
                         </div>
-
                         <div class="mySlides">
                             <div class="numbertext">2</div>
-                            <img src="/static/images/coffee_belt.jpg" style="width:1000px;height:500px;">
-                            <div class="text"></div>
+                            <img src="/static/images/coffee_belt.jpg" style="width:1000px;height:450px;">
+                            <p>&nbsp;</p>
+                            <p>&nbsp;</p>
+                            <p>&nbsp;</p>
+                            <p>&nbsp;</p>
+                            <div class="text"> 
+                            Stable temperatures, moderate precipitation and rich soil make the perfect conditions for coffee trees. Back in the 14th century wild seedlings of coffee were exported from Ethiopia to Arabian Peninsula, and by the end of the 17th century coffee beans had spread as far as Java and Sumatra. Then, the coffee culture entered the New World countries, and took roots in Brazil, Guatemala, Costa-Rica, Jamaica and Cuba. By the beginning of the 19th century the circle closed and our planet got the “coffee belt”, within which all the main coffee plantations are located.
+                            </div>
                         </div>
 
                         <div class="mySlides">
                             <div class="numbertext">3</div>
                             <img src="/static/images/image-asset.png" style="width:1000px;height:500px;">
-                            <div class="text"></div>
+                            <p>&nbsp;</p>
+                            <p>&nbsp;</p>
+                            <div class="text"></div> There are several different coffee species, two main species of coffee are cultivated today.  Coffea arabica, known as Arabica coffee, accounts for 75-80 percent of the world's production.  Coffea canephora, known as Robusta coffee, accounts for about 20 percent and differs from the Arabica coffees in terms of taste. While Robusta coffee beans are more robust than the Arabica plants, but produces an inferior tasting beverage with a higher caffeine content.  Both the Robusta and Arabica coffee plant can grow to heights of 10 meters if not pruned, but producing countries will maintain the coffee plant at a height reasonable for easy harvesting.
                         </div>
 
                         <div class="mySlides">
@@ -234,53 +253,67 @@
                         <a class="next" onclick="plusSlides(1)">&#10095;</a>
 
                     </div>
-                    <!-- <br>
 
-                    <div style="text-align:center">
+                    <!-- <div style="text-align:center">
                         <span class="dot" onclick="currentSlide(1)"></span>
                         <span class="dot" onclick="currentSlide(2)"></span>
                         <span class="dot" onclick="currentSlide(3)"></span>
                     </div> -->
 
+                    <script>
+                        var slideIndex = 1;
+                        showSlides(slideIndex);
+
+                        function plusSlides(n) {
+                            showSlides(slideIndex += n);
+                        }
+
+                        function currentSlide(n) {
+                            showSlides(slideIndex = n);
+                        }
+
+                        function showSlides(n) {
+                            var i;
+                            var slides = document.getElementsByClassName("mySlides");
+                            var dots = document.getElementsByClassName("dot");
+                            if (n > slides.length) { slideIndex = 1 }
+                            if (n < 1) { slideIndex = slides.length }
+                            for (i = 0; i < slides.length; i++) {
+                                slides[i].style.display = "none";
+                            }
+                            for (i = 0; i < dots.length; i++) {
+                                dots[i].className = dots[i].className.replace(" active", "");
+                            }
+                            slides[slideIndex - 1].style.display = "block";
+                            dots[slideIndex - 1].className += " active";
+                        }
+                    </script>
                 </div>
             </div>
         </div>
-       
-        <script>
-            var slideIndex = 1;
-            showSlides(slideIndex);
 
-            function plusSlides(n) {
-                showSlides(slideIndex += n);
-            }
+        <!-- <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    "Coffee is the common man's gold, and like gold brings to every man the"
+                    feeling of luxury and nobility...
+                    Take time in your preparations of coffee and...
+                    God will be with you and bless you and
+                    your table. Where coffee is served there is grace and splendor ...
+                    and friendship and happiness" - Sheik Asari
+                    Djezeri Hanball Abd al-Kadir, 1587.
+                    <p>
+        </div>
+            </div>
+                </div> -->
 
-            function currentSlide(n) {
-                showSlides(slideIndex = n);
-            }
 
-            function showSlides(n) {
-                var i;
-                var slides = document.getElementsByClassName("mySlides");
-                var dots = document.getElementsByClassName("dot");
-                if (n > slides.length) { slideIndex = 1 }
-                if (n < 1) { slideIndex = slides.length }
-                for (i = 0; i < slides.length; i++) {
-                    slides[i].style.display = "none";
-                }
-                for (i = 0; i < dots.length; i++) {
-                    dots[i].className = dots[i].className.replace(" active", "");
-                }
-                slides[slideIndex - 1].style.display = "block";
-                dots[slideIndex - 1].className += " active";
-            }
-        </script>
         <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
-        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
-        crossorigin="anonymous"></script>
+            integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+            crossorigin="anonymous"></script>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx"
-        crossorigin="anonymous"></script>
-
+            integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx"
+            crossorigin="anonymous"></script>
 
     </body>
 
